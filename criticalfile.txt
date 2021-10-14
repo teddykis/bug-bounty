@@ -1,3 +1,15 @@
+.bower-cache
+.bower-registry
+.bower-tmp
+.build/
+.buildpath
+.buildpath/
+.builds
+.bundle
+.bz2
+.bzr/README
+.c9/
+.c9revisions/
 robots.txt
 <script>alert(123);</script>
 <ScRipT>alert("XSS");</ScRipT>
